@@ -3,8 +3,8 @@ local Roact = require(game.ReplicatedStorage.Roact)
 
 function Interface(props)
 	return Roact.createElement("ScreenGui",{},{
-		Label = Roact.createElement("TextLabel",props)
-	},props[Roact.Children])
+		Label = Roact.createElement("TextLabel",props,props[Roact.Children])
+	})
 end
 
 local interface = Roact.createElement(Interface,{
