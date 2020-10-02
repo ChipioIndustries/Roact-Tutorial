@@ -8,6 +8,8 @@ The Roact module used in this project is located in src/ReplicatedStorage to all
 
 The examples are located under src/StarterPlayer/StarterPlayerScripts. Each folder is named after its corresponding video chapter. If you're running these examples, it's best to only do one at a time so they don't overlap.
 
+This repository can be directly synced into Studio with Rojo. If you don't use Rojo, you can also download and open the Examples.rbxl file as an alternative.
+
 Full written version:
 https://devforum.roblox.com/t/roact-the-ultimate-ui-framework/796618
 
